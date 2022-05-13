@@ -7,7 +7,7 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Cozhee/",
         "class": "fab fa-github"
       },
       {
@@ -16,7 +16,7 @@
         "class": "fab fa-instagram"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "me.PNG"
   },
   "skills": {
     "icons": [
