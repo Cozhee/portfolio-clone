@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Cody Davis. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "Hello! I’m Cody Davis, and I am a front-end developer. I am a self taught software developer and soon found myself specializing in front-end software development. I am willing to expand my horizons to projects looking for software support specifcially for web development.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -42,7 +42,7 @@
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Cozhee/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -62,7 +62,7 @@
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/Cozhee/",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
