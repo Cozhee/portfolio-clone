@@ -15,8 +15,7 @@
       "startDate": "2021",
       "description": "Halodotapi used to retrieve user rank and stats for the competitive season. Displays a list of your last 25 games including your individual performance for each game.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/placeholder.png"
       ],
       "url": "",
       "technologies": [
@@ -39,8 +38,7 @@
       "startDate": "2022",
       "description": "Application to submit reviews on restaurants with login functionality. Restaurants may only be deleted by the admin user, but individual users can delete their own review.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/placeholder.png"
       ],
       "url": "https://github.com/Cozhee/",
       "technologies": [
@@ -67,30 +65,6 @@
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com/Cozhee/",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
         }
       ]
     }

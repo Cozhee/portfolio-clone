@@ -11,9 +11,9 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/davis-r-cody",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "me.PNG"
